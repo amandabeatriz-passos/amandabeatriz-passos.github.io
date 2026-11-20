@@ -2,7 +2,7 @@
 
 ### Hi! Welcome to my GitHub page!
 
-I'm **Amanda**, a Brazilian student currently pursuing a Master's degree in **Public and Corporate Communication** in Milan, Italy.
+I'm **Amanda**, a Brazilian student currently pursuing a Master's degree in [**Public and Corporate Communication**](https://www.unimi.it/en/education/master-programme/public-and-corporate-communication-com) in Milan, Italy.
 
 I'm passionate about communication, culture, music and entertainment. I love going to concerts, discovering new artists and experiencing live music.
 
