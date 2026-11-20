@@ -2,6 +2,8 @@
 
 ### Hi! Welcome to my GitHub page!
 
+<img align="right" src="./imgs/amanda-icp.jpeg" width="180" alt="Amanda during the Disney Cultural Exchange Program">
+
 I'm **Amanda**, a Brazilian student currently pursuing a Master's degree in [**Public and Corporate Communication**](https://www.unimi.it/en/education/master-programme/public-and-corporate-communication-com) in Milan, Italy.
 
 I'm passionate about communication, culture, music and entertainment. I love going to concerts, discovering new artists and experiencing live music.
